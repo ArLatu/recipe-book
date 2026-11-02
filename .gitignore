@@ -1,0 +1,15 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor and IDE settings
+.idea/
+.vscode/
+*.swp
+*~
+
+# Local working files that do not belong in the repository
+screenshots/
+report/
+*.tmp
