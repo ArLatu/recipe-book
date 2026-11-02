@@ -5,4 +5,4 @@ Each recipe is a separate Markdown file in the `recipes/` folder.
 
 ## Recipes
 
-- (no recipes yet)
+- [Draniki](recipes/draniki.md) - Belarusian potato pancakes
