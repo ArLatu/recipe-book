@@ -7,6 +7,7 @@ Each recipe is a separate Markdown file in the `recipes/` folder.
 
 
 - [Draniki](recipes/draniki.md) - Belarusian potato pancakes
+- [Kartulisalat](recipes/kartulisalat.md) - Estonian potato salad
 
 ## Adding a recipe
 
