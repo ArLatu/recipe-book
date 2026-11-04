@@ -8,3 +8,8 @@ Each recipe is a separate Markdown file in the `recipes/` folder.
 
 - [Draniki](recipes/draniki.md) - Belarusian potato pancakes
 
+## Adding a recipe
+
+1. Create a branch named `recipe/<dish-name>`.
+2. Add `recipes/<dish-name>.md` with an Ingredients and an Instructions section.
+3. Add a link to the list above and open a pull request.
